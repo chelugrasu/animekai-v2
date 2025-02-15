@@ -35,7 +35,6 @@
     "vidstack": "^1.10.9",
     "vue": "^3.4.19",
     "vue-image-compressor": "^1.0.3",
-    "vue-lenis": "^1.0.0",
     "vue-router": "^4.0.13"
   },
   "devDependencies": {
